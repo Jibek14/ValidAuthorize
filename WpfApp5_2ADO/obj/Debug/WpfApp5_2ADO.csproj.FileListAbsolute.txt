@@ -1,0 +1,14 @@
+C:\Users\Дом\source\repos\WpfApp5_2ADO\WpfApp5_2ADO\bin\Debug\WpfApp5_2ADO.exe.config
+C:\Users\Дом\source\repos\WpfApp5_2ADO\WpfApp5_2ADO\bin\Debug\WpfApp5_2ADO.exe
+C:\Users\Дом\source\repos\WpfApp5_2ADO\WpfApp5_2ADO\bin\Debug\WpfApp5_2ADO.pdb
+C:\Users\Дом\source\repos\WpfApp5_2ADO\WpfApp5_2ADO\obj\Debug\WpfApp5_2ADO.csprojAssemblyReference.cache
+C:\Users\Дом\source\repos\WpfApp5_2ADO\WpfApp5_2ADO\obj\Debug\MainWindow.g.cs
+C:\Users\Дом\source\repos\WpfApp5_2ADO\WpfApp5_2ADO\obj\Debug\App.g.cs
+C:\Users\Дом\source\repos\WpfApp5_2ADO\WpfApp5_2ADO\obj\Debug\WpfApp5_2ADO_MarkupCompile.cache
+C:\Users\Дом\source\repos\WpfApp5_2ADO\WpfApp5_2ADO\obj\Debug\WpfApp5_2ADO_MarkupCompile.lref
+C:\Users\Дом\source\repos\WpfApp5_2ADO\WpfApp5_2ADO\obj\Debug\MainWindow.baml
+C:\Users\Дом\source\repos\WpfApp5_2ADO\WpfApp5_2ADO\obj\Debug\WpfApp5_2ADO.g.resources
+C:\Users\Дом\source\repos\WpfApp5_2ADO\WpfApp5_2ADO\obj\Debug\WpfApp5_2ADO.Properties.Resources.resources
+C:\Users\Дом\source\repos\WpfApp5_2ADO\WpfApp5_2ADO\obj\Debug\WpfApp5_2ADO.csproj.GenerateResource.cache
+C:\Users\Дом\source\repos\WpfApp5_2ADO\WpfApp5_2ADO\obj\Debug\WpfApp5_2ADO.exe
+C:\Users\Дом\source\repos\WpfApp5_2ADO\WpfApp5_2ADO\obj\Debug\WpfApp5_2ADO.pdb
